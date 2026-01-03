@@ -1,0 +1,15 @@
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.BattleNet.V37165\bin\Debug\WowPacketParserModule.BattleNet.V37165.deps.json
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.BattleNet.V37165\bin\Debug\WowPacketParserModule.BattleNet.V37165.dll
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.BattleNet.V37165\bin\Debug\WowPacketParserModule.BattleNet.V37165.pdb
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.BattleNet.V37165\bin\Debug\WowPacketParser.Proto.dll
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.BattleNet.V37165\bin\Debug\WowPacketParser.Proto.pdb
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.BattleNet.V37165\obj\Debug\WowPacketParserModule.BattleNet.V37165.csproj.AssemblyReference.cache
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.BattleNet.V37165\obj\Debug\WowPacketParserModule.BattleNet.V37165.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.BattleNet.V37165\obj\Debug\WowPacketParserModule.BattleNet.V37165.AssemblyInfoInputs.cache
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.BattleNet.V37165\obj\Debug\WowPacketParserModule.BattleNet.V37165.AssemblyInfo.cs
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.BattleNet.V37165\obj\Debug\WowPacketParserModule.BattleNet.V37165.csproj.CoreCompileInputs.cache
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.BattleNet.V37165\obj\Debug\WowPacke.771F4FE7.Up2Date
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.BattleNet.V37165\obj\Debug\WowPacketParserModule.BattleNet.V37165.dll
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.BattleNet.V37165\obj\Debug\refint\WowPacketParserModule.BattleNet.V37165.dll
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.BattleNet.V37165\obj\Debug\WowPacketParserModule.BattleNet.V37165.pdb
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.BattleNet.V37165\obj\Debug\ref\WowPacketParserModule.BattleNet.V37165.dll

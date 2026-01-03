@@ -1,0 +1,15 @@
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.Substructures\bin\Release\WowPacketParserModule.Substructures.deps.json
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.Substructures\bin\Release\WowPacketParserModule.Substructures.dll
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.Substructures\bin\Release\WowPacketParserModule.Substructures.pdb
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.Substructures\bin\Release\WowPacketParser.Proto.dll
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.Substructures\bin\Release\WowPacketParser.Proto.pdb
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.Substructures\obj\Release\WowPacketParserModule.Substructures.csproj.AssemblyReference.cache
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.Substructures\obj\Release\WowPacketParserModule.Substructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.Substructures\obj\Release\WowPacketParserModule.Substructures.AssemblyInfoInputs.cache
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.Substructures\obj\Release\WowPacketParserModule.Substructures.AssemblyInfo.cs
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.Substructures\obj\Release\WowPacketParserModule.Substructures.csproj.CoreCompileInputs.cache
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.Substructures\obj\Release\WowPacke.F083C7C5.Up2Date
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.Substructures\obj\Release\WowPacketParserModule.Substructures.dll
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.Substructures\obj\Release\refint\WowPacketParserModule.Substructures.dll
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.Substructures\obj\Release\WowPacketParserModule.Substructures.pdb
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.Substructures\obj\Release\ref\WowPacketParserModule.Substructures.dll

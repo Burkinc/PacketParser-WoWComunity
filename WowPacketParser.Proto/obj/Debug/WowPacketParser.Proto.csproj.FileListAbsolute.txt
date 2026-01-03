@@ -1,0 +1,12 @@
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParser.Proto\bin\Debug\WowPacketParser.Proto.deps.json
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParser.Proto\bin\Debug\WowPacketParser.Proto.dll
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParser.Proto\bin\Debug\WowPacketParser.Proto.pdb
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParser.Proto\obj\Debug\WowPacketParser.Proto.csproj.AssemblyReference.cache
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParser.Proto\obj\Debug\WowPacketParser.Proto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParser.Proto\obj\Debug\WowPacketParser.Proto.AssemblyInfoInputs.cache
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParser.Proto\obj\Debug\WowPacketParser.Proto.AssemblyInfo.cs
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParser.Proto\obj\Debug\WowPacketParser.Proto.csproj.CoreCompileInputs.cache
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParser.Proto\obj\Debug\WowPacketParser.Proto.dll
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParser.Proto\obj\Debug\refint\WowPacketParser.Proto.dll
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParser.Proto\obj\Debug\WowPacketParser.Proto.pdb
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParser.Proto\obj\Debug\ref\WowPacketParser.Proto.dll

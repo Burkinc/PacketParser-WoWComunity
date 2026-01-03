@@ -1,0 +1,3 @@
+obj\Debug\PacketStructures/Structures.cs: C:/Users/rybiz/.nuget/packages/grpc.tools/2.68.1/build/native/include/google/protobuf/timestamp.proto\
+ C:/Users/rybiz/.nuget/packages/grpc.tools/2.68.1/build/native/include/google/protobuf/wrappers.proto\
+ PacketStructures/structures.proto

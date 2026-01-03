@@ -1,0 +1,13 @@
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParser\bin\Debug\Parsers\WowPacketParserModule.V2_5_1_38707.deps.json
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParser\bin\Debug\Parsers\WowPacketParserModule.V2_5_1_38707.dll
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParser\bin\Debug\Parsers\WowPacketParserModule.V2_5_1_38707.pdb
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.V2_5_1_38707\obj\Debug\WowPacketParserModule.V2_5_1_38707.csproj.AssemblyReference.cache
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.V2_5_1_38707\obj\Debug\WowPacketParserModule.V2_5_1_38707.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.V2_5_1_38707\obj\Debug\WowPacketParserModule.V2_5_1_38707.AssemblyInfoInputs.cache
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.V2_5_1_38707\obj\Debug\WowPacketParserModule.V2_5_1_38707.AssemblyInfo.cs
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.V2_5_1_38707\obj\Debug\WowPacketParserModule.V2_5_1_38707.csproj.CoreCompileInputs.cache
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.V2_5_1_38707\obj\Debug\WowPacke.C5C018B8.Up2Date
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.V2_5_1_38707\obj\Debug\WowPacketParserModule.V2_5_1_38707.dll
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.V2_5_1_38707\obj\Debug\refint\WowPacketParserModule.V2_5_1_38707.dll
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.V2_5_1_38707\obj\Debug\WowPacketParserModule.V2_5_1_38707.pdb
+C:\Users\rybiz\Desktop\Wowcommunitypacketparser-main\WowPacketParserModule.V2_5_1_38707\obj\Debug\ref\WowPacketParserModule.V2_5_1_38707.dll
